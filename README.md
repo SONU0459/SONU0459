@@ -68,8 +68,7 @@ Skilled in HTML, CSS, Javascript, ReactJS good in data structure and algorithms.
 | :---: | :---: |
 
 
-
-0
+ 
 <div align="center" style="display: flex; ">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SONU0459&theme=react&border_radius=4.6&hide_border=true&layout=compact&show_icons=true" style="width: 40%" />
 
