@@ -99,8 +99,8 @@ Skilled in HTML, CSS, Javascript, ReactJS good in data structure and algorithms.
  <a href='https://github.com/SONU0459/React_Todoapp' target="_blank" rel="noopener noreferrer">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=SONU0459&repo=React_Todoapp&theme=react"/>
  </a>
-<a href='https://github.com/SONU0459/Secquraise.ReactApp' target="_blank" rel="noopener noreferrer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SONU0459&repo=Secquraise.ReactApp&theme=react"/>
+<a href='https://github.com/SONU0459/react-chatapp' target="_blank" rel="noopener noreferrer">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SONU0459&repo=react-chatapp&theme=react"/>
  </a>
 </div>
 
