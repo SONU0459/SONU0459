@@ -30,6 +30,10 @@ Skilled in HTML, CSS, Javascript, ReactJS good in data structure and algorithms.
 
 - ⚡ Fun fact **I am funny**
 
+- 📫 Portfolio **https://646e891162711b303058cb36--silver-cuchufli-c34d75.netlify.app/**
+
+
+
  <br>
 <h2 align="center"> :pencil: Connect with me:</h2>
 <p align="center">
