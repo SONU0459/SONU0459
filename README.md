@@ -30,7 +30,9 @@ Skilled in HTML, CSS, Javascript, ReactJS good in data structure and algorithms.
 
 - ⚡ Fun fact **I am funny**
 
-- 📫 Portfolio **https://646e891162711b303058cb36--silver-cuchufli-c34d75.netlify.app/**
+- 📫 Portfolio **https://6470af9d1ece8c168818a1f2--rainbow-chebakia-d1b74c.netlify.app/**
+
+- ⚡Resume **file:///C:/Users/Aayush/Desktop/sonu_kumar%20resume.pdf**
 
 
 
